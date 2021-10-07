@@ -1,1 +1,7 @@
-Este é o exemplo de texto file1
+
+
+
+Voltei a alterar
+
+
+Fiz uma alteração dentro do ficheiro
