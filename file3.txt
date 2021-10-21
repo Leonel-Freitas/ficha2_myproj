@@ -3,3 +3,9 @@ Este é outro exemplo de ficheiro txt
 
 
 pah n seii
+
+<h2>Bebidas</>
+ <li>Coffee</li>
+ <li>Tea</li>
+ <li>Milk</li>
+ <li>Soda</li>
